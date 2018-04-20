@@ -1,0 +1,40 @@
+.header{
+	float: right;
+	width: 25%;
+
+}
+.header li {
+	display: inline;
+
+}
+
+.logo {
+	text-align: center;
+	position: relative;
+	top: 170px;
+	left: 200px;
+}
+
+.search-bar {
+	text-align: center;
+	position: relative;
+	top: 240px;
+	left: 520px;
+	width: 360px;
+	size: 28px;
+}
+
+.botones {
+	width: 360px;
+	padding-top: 30px;
+	
+}
+
+.caja {
+	border-style: groove;
+	border-width: 1px;
+	{
+
+#caja-texto {
+	outline: 0;
+	{
